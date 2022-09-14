@@ -13,4 +13,4 @@ The primariy objective is to investigate the Taylor scale on 90+ dataset. The an
   - The time window is okay
   - The HPF frequency makes sense to me
 - Before moving on I want to organize the mean velocity computations
-  - I want to create a h5 file containing the velocities. The point is easier transferability and usability.
+  - I want to create a h5 file containing the velocities for easier transferability and usability.
