@@ -14,3 +14,4 @@ The primariy objective is to investigate the Taylor scale on 90+ dataset. The an
   - The HPF frequency makes sense to me
 - Before moving on I want to organize the mean velocity computations
   - I want to create a h5 file containing the velocities for easier transferability and usability.
+    - The motivation for converting to the information to a HDF5 file is due mainly because I have grown accustomed to working with the h5py module.
