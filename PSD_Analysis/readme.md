@@ -7,7 +7,11 @@ The second issue is related to the different bulk velocities across the shots. F
 
 I will continue with this method. However, the normalizations S1 and S2 are frequency dependent. This must be resolved before I proceed.
 Steps to solve the issue:
-- [] Review S1 and S2 normalization
-- [] implement a quick fix in python 
+- [x] Review S1 and S2 normalization
+- [x] implement a quick fix in python 
 - [] test the fix on random data or noise data
-- [] run python scripts over night.
+- [x] run python scripts over night.
+
+
+-Update:
+ The conversion from frequency to wavenumber space was straight forward. We wanted E(k)~ J/k ~(J/w)*v = E(w)*v
